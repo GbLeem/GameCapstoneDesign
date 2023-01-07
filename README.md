@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/86725870/210035068-21cc17c7-014a-4fdf-83de-d0da338a6d16.PNG"  width="400" height="400"/>
 
 ### 영상 링크
-
+https://www.youtube.com/watch?v=fBdjfd2bkEw
 ### 팀원
 * 김민정 https://github.com/mmindoong
 * 임재원 https://github.com/adfa0117
